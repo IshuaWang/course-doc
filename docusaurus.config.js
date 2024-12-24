@@ -5,8 +5,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 module.exports = {
   title: 'lsfusion documentation',
   tagline: 'lsfusion documentation',
-  url: 'https://lsfusion.github.io',
-  baseUrl: '/',
+  url: 'https://IshuaWang.github.io',
+  baseUrl: '/course-doc',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   onBrokenAnchors: 'ignore', // Should be updated to 'warn' in the future due to current functionality issues
